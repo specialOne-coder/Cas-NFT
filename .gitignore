@@ -1,0 +1,9 @@
+node_modules
+art-engine
+.env
+deployments
+artifacts
+cache
+.history
+.openzeppelin
+
